@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import plotly.express as px
-from plotly.offline import plot as plt
 
+#from plotly.offline import plot as plt
 
 st.title("ポケモンのデータ分析アプリ")
 
