@@ -1,5 +1,9 @@
 # Pokemon-Analytics
-大学の授業課題で作ったWebアプリケーションです。  
+大学の授業課題で作ったWebアプリケーションです。
+
+https://share.streamlit.io/mayachiu/pokemon-analytics/main.py
+
+でアクセスできます。（1週間くらい触ってないとスリープします）(10/7)
 
 
 Streamlitというフレームワークを使うことで、Pythonを使ったデータ分析の結果などを簡単にWebアプリケーションとして公開することができます。  
