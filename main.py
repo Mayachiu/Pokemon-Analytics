@@ -7,6 +7,8 @@ import plotly.express as px
 
 st.title("ポケモンのデータ分析アプリ")
 
+st.subheader("by Kazuki Uchiyama")
+
 "ポケモンのデータ"
 pokemon = pd.read_csv("http://logopt.com/data/poke.csv",encoding="utf-8")
 st.dataframe(pokemon,width=1000)
