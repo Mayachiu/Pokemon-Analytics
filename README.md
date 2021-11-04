@@ -3,8 +3,7 @@
 
 https://share.streamlit.io/mayachiu/pokemon-analytics/main.py
 
-でアクセスできます。（1週間くらい触ってないとスリープします）(10/7)
-
+でアクセスできます。
 
 Streamlitというフレームワークを使うことで、Pythonを使ったデータ分析の結果などを簡単にWebアプリケーションとして公開することができます。  
 
